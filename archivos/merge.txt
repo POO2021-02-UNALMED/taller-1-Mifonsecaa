@@ -1,3 +1,4 @@
-Miguel Angel Fonseca Aldana 
+Miguel Angel Fonseca ALdana 
 22 años
-Mis aspiraciones con la materia es aprender la sintaxis de Java y aprender POO en Python y Java.
+Mis apiraciones con la materia, es aprender la sintaxis de Java, aprender POO en Java y en Python.
+Aprender a crear proyectos y aprender a utilizar nuevas herramientas. (Me equivoqué y le dí en dejar solo el primero), hay que tener cuidado al editar archivos al mismo tiempo, porque se genera un conflicto a la hora de hacer el push.
